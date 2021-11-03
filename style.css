@@ -1,0 +1,41 @@
+.header_div{
+font-family: 'Oswald', sans-serif;
+background: white;
+color: red;
+
+
+}
+.header_div p{
+    font-family: 'Ubuntu', sans-serif;
+
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+body{
+    font-family: 'Zen Old Mincho', serif;
+    background: pink;
+}
+
+.main_div button{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+.copy_right_footer{
+    font-family: 'Lobster', cursive;
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color: white;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px  rgb(107, 107, 109);
+}
